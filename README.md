@@ -1,2 +1,2 @@
 # angular-opinionated
-Opiniated angular project structure
+Opiniated angular project structure -> [Wiki](https://github.com/rbalet/angular-opinionated/wiki)
