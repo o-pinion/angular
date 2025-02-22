@@ -1,0 +1,23 @@
+{
+  "files": ["**/*.ts"],
+  "rules": {
+    "@angular-eslint/component-class-suffix": [
+      "error",
+      {
+        "suffixes": [
+          "Component",
+          "Dialog",
+          "Directive",
+          "Form",
+          "Guard",
+          "Layout",
+          "Modal",
+          "Page",
+          "Pipe",
+          "Resolver",
+          "Service"
+        ]
+      }
+    ]
+  }
+}

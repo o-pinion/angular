@@ -1,0 +1,28 @@
+{
+  "name": "@o-pinion/angular",
+  "version": "0.0.1",
+  "description": "Opiniated Angular utilities",
+  "license": "MIT",
+  "author": "Raphael Balet",
+  "maintainers": [
+    "raphael.balet@outlook.com"
+  ],
+  "keywords": [
+    "angular",
+    "utilities"
+  ],
+  "homepage": "https://github.com/rbalet/@o-pinion/angular#readme",
+  "bugs": {
+    "url": "https://github.com/rbalet/@o-pinion/angular/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbalet/@o-pinion/angular"
+  },
+  "devDependencies": {},
+  "sideEffects": false
+}
