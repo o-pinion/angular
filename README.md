@@ -13,7 +13,7 @@ Opiniated angular project structure
 Inside the `eslint.config.ts` file, adds the following
 
 ```typescript
-const oLint = require('@o-pinion/angular')
+const oLint = require('@o-pinion/angular/.eslintrc.json')
 
 module.exports = tseslint.config(
   oLint,
