@@ -1,27 +1,6 @@
 {
   "files": ["**/*.ts"],
   "rules": {
-    "no-console": [
-      "error",
-      {
-        "allow": [
-          "assert",
-          "clear",
-          "count",
-          "error",
-          "group",
-          "groupCollapsed",
-          "groupEnd",
-          "info",
-          "table",
-          "time",
-          "timeEnd",
-          "timeLog",
-          "trace",
-          "warn"
-        ]
-      }
-    ],
     "@angular-eslint/component-class-suffix": [
       "error",
       {
